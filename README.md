@@ -1,12 +1,7 @@
-- 👋 Hola, Soy @jdario9912. Me alegra que estés visitando mi repositorio! Espero encuentres cosas que te gusten, que te parezcan interesantes. 
+<h1>Joel, web developer</h1>
+
+- 👋 Hola, Soy Joel Dario Muñoz. Me alegra que estés visitando mi repositorio! Espero encuentres cosas que te gusten, que te parezcan interesantes. 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<!---
-jdario9912/jdario9912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1>Joel</h1>
-<p>Readme en construcción...</p>
