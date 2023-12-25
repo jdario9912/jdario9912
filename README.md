@@ -1,3 +1,19 @@
-<h1>Joel, web developer</h1>
+# Joel, web developer fullstack
 
-- 👋 Hola, Soy Joel Dario Muñoz. Me alegra que estés visitando mi repositorio! Espero encuentres cosas que te gusten, que te parezcan interesantes. 
+👋 Hola, soy Joel Dario Muñoz. Me alegra que estés visitando mis repositorios! 
+
+Espero encuentres cosas que te gusten y te parezcan interesantes. 
+
+Las principales tecnologias que utilizo son:
+
+* Javascript
+* Typescript
+* ReactJs con NextJs
+* CSS con Tailwind
+* MySQL
+* MongoDb
+
+Tecnologias que estoy aprendiendo:
+
+* Go
+* Postgresql
