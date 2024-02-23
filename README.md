@@ -17,3 +17,4 @@ Tecnologias que estoy aprendiendo:
 
 * Go
 * Postgresql
+* NestJs
