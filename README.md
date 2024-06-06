@@ -39,4 +39,4 @@ Tecnologias que estoy aprendiendo:
 * Postgresql
 * NestJs
 
-Si quieres trabajar conmigo puedes escribirme a joeldario9912@gmail.com o a mí cuenta de [LinkedIn](url "https://www.linkedin.com/in/joel-develop/").
+Si quieres trabajar conmigo puedes escribirme a joeldario9912@gmail.com o a mí cuenta de [LinkedIn](url "https://www.linkedin.com/in/joel-develop").
