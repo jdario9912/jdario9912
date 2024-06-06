@@ -1,3 +1,5 @@
+![portada](https://imgur.com/WHvbqUR "Portada Github")
+
 # Joel, web developer fullstack
 
 👋 Hola, soy Joel Dario Muñoz. Me alegra que estés visitando mi perfil! 
