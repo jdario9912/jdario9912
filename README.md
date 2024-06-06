@@ -1,4 +1,4 @@
-![portada](https://imgur.com/WHvbqUR "Portada Github")
+![portada](https://i.imgur.com/WHvbqUR.png "Portada Github")
 
 # Joel, web developer fullstack
 
