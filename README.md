@@ -12,7 +12,7 @@ Actualmente vivo y trabajo en Argentina pero estoy abierto a la posibilidad de r
 
 Mí objetivo es vivir de lo que me apasiona, aportar a proyectos novedosos e interesantes, y también integrarme a un grupo de trabajo.
 
-Poseo una formación academica que inició en la Universidad Tecnológica Nacional. Mis primeros pasos en tecnología los realicé con PHP y MySQL, luego realicé un Bootcamp de Desarrollo Web Fullstack orientado a tecnologías como Java, HTML, CSS y Javascript. Después continué (y actualmente sigo capacitándome) con diversos cursos en tecnlogías para desarrollo como ReactJs, NodeJs, GitHub, Docker, MongoDb, Tailwind, tecnologías para testing como Cypress y Jest.
+Poseo una formación academica que inició en la Universidad Tecnológica Nacional. Realicé mis primeros pasos en tecnología con PHP y MySQL, luego realicé un Bootcamp de Desarrollo Web Fullstack orientado a tecnologías como Java, HTML, CSS y Javascript. Después continué (y actualmente sigo capacitándome) con diversos cursos en tecnlogías para desarrollo como ReactJs, NodeJs, GitHub, Docker, MongoDb, Tailwind, tecnologías para testing como Cypress y Jest.
 
 :wrench: Tecnologias y herramientas que utilizo:
 
