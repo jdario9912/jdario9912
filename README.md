@@ -2,19 +2,19 @@
 
 #
 
-Hi, I'm Joel. It's great for me to know you are visiting my profile.
+👋 Hi, I'm Joel. It's great for me to know you are visiting my profile.
 
 I hope you can find interesting and attractive things here.
 
 I'm a freelance developer with more than two years of experience and I continue learning every day.
 
-I live and work in Argentina but I'm open to the possibility of moving. I love the idea of knowing other places in the world.
+I live and work in Argentina but I'm open to the possibility of moving. I love the idea of knowing other places in the world :airplane:.
 
 My main goal is to live doing what I love, contribute to interesting and novel projects, and also join a work team.
 
 My academic training started at National Technological University (UTN). I made my first steps in technology with PHP and MySQL. Then I did a Fullstack Web Development bootcamp about technologies like Java, HTML, CSS and Javascript. After that I went on  learning (and I continue doing it) with different courses about technologies for development like ReactJs, NodeJs, Github, Docker, MongoDb, Tailwind, and technologies for testing like Cypress and Jest.
 
-Technologies and tools that I use:
+:wrench: Technologies and tools that I use:
 
 * Javascript
 * Typescript
@@ -35,13 +35,13 @@ Technologies and tools that I use:
 * Linux
 * Figma
 
-Technologies I'm learning:
+:wrench: Technologies I'm learning:
 
 * Go
 * Postgresql
 * NestJs
   
-If you want to work with me, send me an email to joeldario9912@gmail.com or contact me by my Linkedin account.
+If you want to work with me, send me an email to joeldario9912@gmail.com or contact me by my [LinkedIn](https://www.linkedin.com/in/joel-develop) account.
 
 ---
 
