@@ -18,16 +18,18 @@ My academic training started at National Technological University (UTN). I made 
 
 * Javascript
 * Typescript
-* ReactJs
 * NextJs
 * NodeJs
+* NestJs
 * Express
+* MongoDb
+* Postgresql
+* MySQL
+* Docker
+* ReactJs
 * CSS
 * Tailwind
 * SASS
-* MySQL
-* MongoDb
-* Docker
 * Cypress
 * Jest
 * Astro
@@ -38,10 +40,10 @@ My academic training started at National Technological University (UTN). I made 
 :wrench: Technologies I'm learning:
 
 * Go
-* Postgresql
-* NestJs
   
-If you want to work with me, send me an email to joeldario9912@gmail.com or contact me by my [LinkedIn](https://www.linkedin.com/in/joel-develop) account.
+:+1: If you want to work with me, send me an email to joeldario9912@gmail.com or contact me by my [LinkedIn](https://www.linkedin.com/in/joel-develop) account.
+
+:+1: For more information visit my website [here](https://joel-develop.netlify.app).
 
 ---
 
@@ -61,16 +63,18 @@ Poseo una formación academica que inició en la Universidad Tecnológica Nacion
 
 * Javascript
 * Typescript
-* ReactJs
 * NextJs
 * NodeJs
+* NestJs
 * Express
+* MongoDb
+* Postgresql
+* MySQL
+* Docker
+* ReactJs
 * CSS
 * Tailwind
 * SASS
-* MySQL
-* MongoDb
-* Docker
 * Cypress
 * Jest
 * Astro
@@ -81,9 +85,9 @@ Poseo una formación academica que inició en la Universidad Tecnológica Nacion
 :wrench: Tecnologias que estoy aprendiendo:
 
 * Go
-* Postgresql
-* NestJs
-
+  
 :+1: Si quieres trabajar conmigo puedes escribirme a joeldario9912@gmail.com o a mí cuenta de [LinkedIn](https://www.linkedin.com/in/joel-develop).
+
+:+1: Para mas información visita mi sitio web [aquí](https://joel-develop.netlify.app)
 
 ![footer](https://i.imgur.com/qT4Uc2j.png "Footer Github")
