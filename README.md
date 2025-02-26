@@ -13,6 +13,7 @@ I live and work in Argentina but I'm open to the possibility of moving. I love t
 My main goal is to live doing what I love, contribute to interesting and novel projects, and also join a work team.
 
 My academic training started at National Technological University (UTN). I made my first steps in technology with PHP and MySQL. Then I did a Fullstack Web Development bootcamp about technologies like Java, HTML, CSS and Javascript. After that I went on  learning (and I continue doing it) with different courses about technologies for development like ReactJs, NodeJs, Github, Docker, MongoDb, Tailwind, and technologies for testing like Cypress and Jest.
+Actually I'm doing a University Degree in Programming at National Technological University.
 
 :wrench: Technologies and tools that I use:
 
@@ -43,7 +44,7 @@ My academic training started at National Technological University (UTN). I made 
   
 :+1: If you want to work with me, send me an email to joeldario9912@gmail.com or contact me by my [LinkedIn](https://www.linkedin.com/in/joel-develop) account.
 
-:+1: For more information visit my website [here](https://joel-develop.netlify.app).
+:+1: For more information visit my website [here](https://joel-develop.netlify.app/en).
 
 ---
 
@@ -58,6 +59,7 @@ Actualmente vivo y trabajo en Argentina pero estoy abierto a la posibilidad de r
 Mí objetivo es vivir de lo que me apasiona, aportar a proyectos novedosos e interesantes, y también integrarme a un grupo de trabajo.
 
 Poseo una formación academica que inició en la Universidad Tecnológica Nacional. Realicé mis primeros pasos en tecnología con PHP y MySQL, luego realicé un Bootcamp de Desarrollo Web Fullstack orientado a tecnologías como Java, HTML, CSS y Javascript. Después continué (y actualmente sigo capacitándome) con diversos cursos en tecnlogías para desarrollo como ReactJs, NodeJs, GitHub, Docker, MongoDb, Tailwind, tecnologías para testing como Cypress y Jest.
+Actualmente me encuentro estudiando una Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional.
 
 :wrench: Tecnologias y herramientas que utilizo:
 
@@ -88,6 +90,6 @@ Poseo una formación academica que inició en la Universidad Tecnológica Nacion
   
 :+1: Si quieres trabajar conmigo puedes escribirme a joeldario9912@gmail.com o a mí cuenta de [LinkedIn](https://www.linkedin.com/in/joel-develop).
 
-:+1: Para mas información visita mi sitio web [aquí](https://joel-develop.netlify.app)
+:+1: Para mas información visita mi sitio web [aquí](https://joel-develop.netlify.app/es)
 
 ![footer](https://i.imgur.com/qT4Uc2j.png "Footer Github")
